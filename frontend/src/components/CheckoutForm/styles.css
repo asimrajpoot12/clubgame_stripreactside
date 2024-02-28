@@ -1,0 +1,23 @@
+/* Example CSS styles for the payment form */
+.CardElement {
+    height: 40px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    font-size: 16px;
+  }
+  
+  .PaymentButton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .PaymentButton:hover {
+    background-color: #0056b3;
+  }
